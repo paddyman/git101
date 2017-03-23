@@ -1,1 +1,1 @@
-# git101 for pait
+# git101 for panit
